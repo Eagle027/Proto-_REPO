@@ -4,4 +4,6 @@ Here is a change in the content
 
 Here is another edit in the file2 for 2nd merge
 
+another edit from the main
+
 another edit from the bug-fix
