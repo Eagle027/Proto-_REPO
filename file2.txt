@@ -4,3 +4,5 @@ Here is a change in the content
 add another marketing message section
 
 Here is another edit in the file2 for 2nd merge
+
+add a footer note
