@@ -12,3 +12,5 @@ Fourth bug fixed
 Fifth bug fixed.
 
 pinkmode fixed - one more bug fixed
+
+another fix message for purplemode
