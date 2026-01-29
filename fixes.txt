@@ -5,3 +5,8 @@ And here is another fix
 add another marketing message section
 
 add footer note.
+One more bug detected and fixed
+
+Fourth bug fixed
+
+Fifth bug fixed.
