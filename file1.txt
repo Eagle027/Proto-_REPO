@@ -1,10 +1,14 @@
 This is my first file
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 2nd stash
 =======
 Another marketing section added to file1
 
 stash 
 fafa
+>>>>>>> Stashed changes
+=======
+2nd stash
 >>>>>>> Stashed changes
