@@ -7,3 +7,5 @@ Here is another edit in the file2 for 2nd merge
 
 add a footer note
 another edit from the bug-fix
+
+main 2
