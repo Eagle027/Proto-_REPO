@@ -5,7 +5,13 @@ add another marketing message section
 
 Here is another edit in the file2 for 2nd merge
 
+<<<<<<< HEAD
 add a footer note
 another edit from the bug-fix
 
 main 2
+=======
+another edit from the main
+
+another edit from the bug-fix
+>>>>>>> bug-fix
