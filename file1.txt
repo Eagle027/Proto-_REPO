@@ -14,3 +14,5 @@ fafa
 >>>>>>> Stashed changes
 
 Changes made after making a new repository
+
+2nd changes made after marking a new repository
