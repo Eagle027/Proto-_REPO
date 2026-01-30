@@ -12,3 +12,5 @@ fafa
 =======
 2nd stash
 >>>>>>> Stashed changes
+
+Changes made after making a new repository
